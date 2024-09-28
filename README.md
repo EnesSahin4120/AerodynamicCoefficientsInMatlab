@@ -1,4 +1,8 @@
 # AerodynamicCoefficientsInMatlab
+
+Based on paper "Real-time modeling of agile fixed-wing UAV aerodynamics" (Waqas Khan, Meyer Nahon)
+
+
 Aerodynamic Coefficients with Modern Fighter Aircraft Parameters
 
 ![1](https://github.com/user-attachments/assets/6f7139e4-a59d-4d2c-898f-06cd4c664aa9)
